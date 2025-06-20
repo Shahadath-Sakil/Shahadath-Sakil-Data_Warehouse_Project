@@ -20,7 +20,7 @@ This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-   ![Data Architecture](docs/data_flow_Copy.png)
+   ![Data Architecture](docs/data_flow.png)
 4. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
    ![Data Architecture](docs/data_model.png)
 6. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
